@@ -13,7 +13,7 @@ location = ''#Leave blank
 playlist = False
 playlistName = ''
 commandProgress = 0
-chat_ID = 1103067075
+chat_ID = #add chat id here
 #connecting to mongo
 client = MongoClient('DB IP')
 db = client.pytube#replace pytube with name of db
